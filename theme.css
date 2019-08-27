@@ -103,7 +103,7 @@ p {
     vertical-align: top;
     font-size: 0;
     line-height: 0;
-    background-image: url(//img.diplomikus.ru/spritesheet9.svg);
+    background-image: url(https://rawcdn.githack.com/BesPaniki12/diplomikus/f79fd634a5bdc7d8e6bc7f8421a92d0860fcf031/spritesheet9.svg);
     background-repeat: no-repeat;
 }
 
@@ -116,7 +116,7 @@ p {
     vertical-align: top;
     font-size: 0;
     line-height: 0;
-    background-image: url(//img.diplomikus.ru/spritesheet9.svg);
+    background-image: url(https://rawcdn.githack.com/BesPaniki12/diplomikus/f79fd634a5bdc7d8e6bc7f8421a92d0860fcf031/spritesheet9.svg);
     background-repeat: no-repeat;
     -moz-transform: scale(-1, 1);
 -webkit-transform: scale(-1, 1);
@@ -200,7 +200,7 @@ filter: FlipH;
 
 
 .sprite {
-    background-image: url(//img.diplomikus.ru/spritesheet9.svg);
+    background-image: url(https://rawcdn.githack.com/BesPaniki12/diplomikus/f79fd634a5bdc7d8e6bc7f8421a92d0860fcf031/spritesheet9.svg);
     background-repeat: no-repeat;
     display: block;
 }
@@ -923,7 +923,7 @@ background-image: linear-gradient(to right, #F37845 0%, #C070DD 100%);
 width: 41px;
     height: 56px;
     display: inline-block;
-    background: url(//img.diplomikus.ru/spritesheet9.svg) no-repeat center;
+    background: url(https://rawcdn.githack.com/BesPaniki12/diplomikus/f79fd634a5bdc7d8e6bc7f8421a92d0860fcf031/spritesheet9.svg) no-repeat center;
     background-size: 100%;
     background-size: 363px auto;
     background-position: -307px -11px;
